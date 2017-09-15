@@ -6,7 +6,7 @@
 	}
 	else
 	{
-		header("location: http://localhost/vuln_page.php");
+		header("location: /item_page.php");
 		exit();
 	}
 
