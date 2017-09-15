@@ -1,3 +1,4 @@
+<!--
 <?php
 	$file = $_GET['item'];
 	if(isset($file))
@@ -11,3 +12,4 @@
 	}
 
 ?>
+-->
