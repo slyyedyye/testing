@@ -12,7 +12,7 @@
 		echo "Login Successful!";
 		$_SESSION['login']=true;
 		$_SESSION['user']=$valid;
-		header('location: http://localhost/item_page.php');
+		header('location: /item_page.php');
 		exit();
 	}
 	else {
