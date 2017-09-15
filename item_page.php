@@ -13,20 +13,12 @@
 		<th>Item</th>
 	</tr>
 	<tr>
-		<td>Take a look at an example login page.</td>
-                <td>loginpage.txt</td>
-        </tr>
-	<tr>
-		<td>Can you identify the vulnerability?</td>
-                <td>searchpage.txt</td>             
-        </tr>
+		<td>A blank entry...</td>
+		<td>...</td>
+	</tr>
 	<tr>
 		<td>This should be an interesting file.</td>
                 <td>flag_01.txt</td>            
-        </tr>
-	<tr>
-		<td>The page you're currently viewing.</td>
-                <td>current.txt</td>               
         </tr>
 </table>
 
