@@ -41,4 +41,4 @@
 	<button type="submit">Search</button>
 </form>
 <br /><br />
-<p>Please see the <a href="http://localhost/info.html">info</a> page for more infomation on LFI vulnerabilities.</p>
+<p>Please see the <a href="/info.html">info</a> page for more infomation on LFI vulnerabilities.</p>
