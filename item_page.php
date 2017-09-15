@@ -13,10 +13,6 @@
 		<th>Item</th>
 	</tr>
 	<tr>
-		<td>Take a look at an example home page.</td>		
-		<td>homepage.txt</td>	
-	</tr>
-	<tr>
 		<td>Take a look at an example login page.</td>
                 <td>loginpage.txt</td>
         </tr>
