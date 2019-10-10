@@ -1,5 +1,0 @@
-Congratulations on discovering the first flag!
-
-Take a look around for the other flags, the 'info' page has more information on some locations to begin searching.
-
-flag_01{They should all be this easy}
